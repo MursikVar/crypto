@@ -1,0 +1,9 @@
+
+
+.form{
+    color: var(--textColor);
+}
+
+.form__inner{
+    display: flex;
+}
