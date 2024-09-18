@@ -1,16 +1,28 @@
-import { Blogs } from "./blog/Blogs";
 import { FirstList } from "./firstlist/FirstList";
-import { Fond } from "./fond/Fond";
 import { InfoCard } from "./infoCard/InfoCards";
-// import { Form } from "./form/Form";
+import { Fond } from "./fond/Fond";
+
+import { Form } from "./form/Form";
+import { Blogs } from "./blog/Blogs";
+
+
+import { AboutCompany } from "./information/aboutCompany/AboutCompany";
+import { Exchangeer } from "./information/exchangers/Exchangers";
+// import { Faq } from "./information/questions/Form";
 
 function Main (){
     return <>
         <FirstList />
         <InfoCard />
         <Fond />
-        {/* <Form /> */}
+        <AboutCompany />
+        <Exchangeer />
+
+        <Form/>
         <Blogs />
+
+
+        {/* <Faq /> */}
     </>
 }
 

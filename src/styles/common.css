@@ -44,6 +44,20 @@ body{
 
 .fond{
     color: var(--textColor);
+    margin-bottom: 70px;
+}
+
+.about__company{
+    color: var(--textColor);
+}
+
+.exchanger{
+    color: var(--textColor);
+}
+
+.form{
+    margin-bottom: 80px;
+    color: var(--textColor);
 }
 
 .blog{
