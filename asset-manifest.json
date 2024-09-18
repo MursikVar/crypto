@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crypto/static/css/main.5dcd77a7.css",
+    "main.js": "/crypto/static/js/main.53632d3b.js",
+    "static/media/FirstPhoto.png": "/crypto/static/media/FirstPhoto.07c2c7ff7bb8392bcc0e.png",
+    "static/media/form-img.jpg": "/crypto/static/media/form-img.30e5d8edbba1198d17c3.jpg",
+    "static/media/fond.svg": "/crypto/static/media/fond.7ccf5d0fceec6cbe2926644839a904be.svg",
+    "static/media/about.jpg": "/crypto/static/media/about.d5b4c5ee995d09aea8dd.jpg",
+    "static/media/mission.jpg": "/crypto/static/media/mission.4e9659af285a342a5135.jpg",
+    "static/media/Footer-logo.svg": "/crypto/static/media/Footer-logo.00bfd9f673727a534af10ec36f99e4ee.svg",
+    "static/media/logo.svg": "/crypto/static/media/logo.c7f7519db27f771a4d1d990d448f81b4.svg",
+    "static/media/Telegram App.svg": "/crypto/static/media/Telegram App.a4c336c58af70e7f97fe9701fccb627c.svg",
+    "index.html": "/crypto/index.html",
+    "static/media/Arrow.svg": "/crypto/static/media/Arrow.b163b99edcbaec44b4b8aa9fedbfc4d0.svg",
+    "main.5dcd77a7.css.map": "/crypto/static/css/main.5dcd77a7.css.map",
+    "main.53632d3b.js.map": "/crypto/static/js/main.53632d3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dcd77a7.css",
+    "static/js/main.53632d3b.js"
+  ]
+}
