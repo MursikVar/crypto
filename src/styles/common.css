@@ -55,6 +55,11 @@ body{
     color: var(--textColor);
 }
 
+.accordion{
+    color: var(--textColor);
+    margin-bottom: 80px;
+}
+
 .form{
     margin-bottom: 80px;
     color: var(--textColor);
