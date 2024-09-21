@@ -47,6 +47,10 @@ body{
     margin-bottom: 70px;
 }
 
+/* .information{
+    color: var(--textColor);
+} */
+
 .about__company{
     color: var(--textColor);
 }
