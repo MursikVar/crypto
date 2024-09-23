@@ -3,7 +3,7 @@ import FirstPhoto from './../../../image/FirstPhoto.png'
 
 function FirstList(){
     return(
-        <section className='firstList'>
+        <section className='firstList' id='firstList'>
             <div className="container">
                 <div className="firstList__inner">
                     <div className="firstList__info">
@@ -12,7 +12,7 @@ function FirstList(){
                             <h2>Безопасность <span>в цифровом мире начинается здесь</span></h2>
                         </div>
                         <div className="firstList__info-btn">
-                            <a href="!#">Оставить заявку</a>
+                            <a href="#form">Оставить заявку</a>
                         </div>
                     </div>
                     <div className="firstList__img">

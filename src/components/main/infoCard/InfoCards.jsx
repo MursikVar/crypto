@@ -31,7 +31,7 @@ class InfoCard extends React.Component{
     };
 
     render(){
-        return <section className="infoCard">
+        return <section className="infoCard" id="infoCard">
             <Cards cards={this.state.cards}/>
         </section>
     }

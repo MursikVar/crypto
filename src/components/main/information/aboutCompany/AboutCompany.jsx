@@ -5,7 +5,7 @@ import about from './../../../../image/about.jpg'
 
 function AboutCompany(){
     return(
-        <section className="about__company">
+        <section  className="about__company">
             <div className="container">
                 <div className="about__company-wrapper">
                     <div className="about__company-text">

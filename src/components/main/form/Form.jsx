@@ -4,10 +4,10 @@ import FormHelp from './formhelpers/FormHelp';
 
 const Form = () => {
   return (
-    <div>
+    <section id='form'>
       <h1>Отправка формы в Telegram</h1>
       <FormHelp />
-    </div>
+    </section>
   );
 };
 

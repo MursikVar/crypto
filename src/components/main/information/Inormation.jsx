@@ -31,7 +31,7 @@ const changeSection = (newSection) => {
 };
 
 return (
-  <div className="information">
+  <div className="information" id='information'>
     <div className="container">
         <ul className="info__wrapper">
             <li className="info__inner">
